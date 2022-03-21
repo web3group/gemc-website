@@ -1,0 +1,30 @@
+.team {
+    background-image: linear-gradient(-70deg, #FFE1BC 0%, #FFF 100%);
+}
+
+.team-container {
+    max-width: 1024px;
+    margin: 0px auto;
+    padding: 10px;
+    color: black;
+    padding-bottom: 30px;
+}
+
+.team-container h2 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: 800;
+}
+
+.team-gallery {
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+}
+
+/* Mobile CSS */
+@media only screen and (max-width: 768px) {
+    .team-container h2 {
+        font-size: 28px;
+    }
+}

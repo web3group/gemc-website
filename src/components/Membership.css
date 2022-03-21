@@ -1,0 +1,29 @@
+.mbr-container {
+    max-width: 1024px;
+    margin: 0px auto;
+    padding: 10px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.mbr-container h2 {
+    font-size: 48px;
+    padding: 20px;
+    margin-left: 10px;
+    background: -webkit-linear-gradient(-70deg, #a2facf 0%, #64acff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Mobile CSS */
+@media only screen and (max-width: 768px) {
+    .mbr-container h2 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .benefits {
+        display: block;
+    }
+}

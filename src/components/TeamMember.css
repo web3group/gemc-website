@@ -1,0 +1,28 @@
+.team-member {
+    width: 200px;
+    text-align: center;
+    margin: 15px;
+}
+
+.team-member img {
+    width: 100%;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+.team-member a {
+    text-decoration: none;
+    color: black;
+}
+
+.team-member h3 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Mobile CSS */
+@media only screen and (max-width: 768px) {
+    .team-member h3 {
+        font-size: 16px;
+    }
+}
