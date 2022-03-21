@@ -36,17 +36,17 @@ function Header(props) {
                     </div>
                     <div className='social-media-links'>
                         <div>
-                            <a href='https://discord.gg/8UqJXTX7Kd' target='_blank' rel='noreferrer'>
+                            <a href='https://discord.gg/vBjXYX85eZ' target='_blank' rel='noreferrer'>
                                 <img src={discord_white} alt="Discord" />
                             </a>
                         </div>
                         <div>
-                            <a href='https://www.instagram.com/scrappysquirrels/' target='_blank' rel='noreferrer'>
+                            <a href='https://www.instagram.com/grand_escape_members_club/' target='_blank' rel='noreferrer'>
                                 <img src={instagram_white} alt="Instagram" />
                             </a>
                         </div>
                         <div>
-                            <a href='https://twitter.com/ScrappyNfts' target='_blank' rel='noreferrer'>
+                            <a href='https://twitter.com/gemcnft' target='_blank' rel='noreferrer'>
                                 <img src={twitter_white} alt="Twitter" />
                             </a>
                         </div>
@@ -58,9 +58,9 @@ function Header(props) {
             </header>
             {showMenu && <div className='mobile-navigation-expanded'
             >
-                <a href='https://www.instagram.com/scrappysquirrels/' target='_blank' rel='noreferrer'>Instagram</a>
-                <a href='https://discord.gg/8UqJXTX7Kd' target='_blank' rel='noreferrer'>Discord</a>
-                <a href='https://twitter.com/ScrappyNfts' target='_blank' rel='noreferrer'>Twitter</a>
+                <a href='https://www.instagram.com/grand_escape_members_club/' target='_blank' rel='noreferrer'>Instagram</a>
+                <a href='https://discord.gg/vBjXYX85eZ' target='_blank' rel='noreferrer'>Discord</a>
+                <a href='https://twitter.com/gemcnft' target='_blank' rel='noreferrer'>Twitter</a>
             </div>}
         </Fragment >
     )

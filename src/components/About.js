@@ -14,10 +14,13 @@ function About() {
                         key={Math.random().toString()} />)}
                 </div>
                 <p>
-                    The Grand Escape Members Club Squirrels are a set of artwork generated programmatically using over 100 traits (to see how, <a href='https://github.com/rounakbanik/generative-art-nft' target='_blank' rel='noreferrer'>click here</a>). The squirrels were designed to serve as the perfect gateway NFT purchase. Learn about traits, perceived rarity, signaling, and price movements without having to invest a fortune.
-                </p>
+                    The Grand Escape Members Club is exclusive and our goal is to draw attention to the destructive force we have on our planet. The character, in the first collection, is the Rhino. The Rhino is also known as one of the most endangered species on the planet, and is en route to extinction!
+The Rhino has no other choice than to Hijack Elon Musks' jet to escape the planet. 
+
+ 
+  </p>
                 <p>
-                    An NFT purchase also supports the GEMC Team as we continue to create tools, resources, and guides to help people onboard into web3. Finally, get access to an exclusive community, guilds, roadmap unlocks, and much more!
+                    By minting or trading your GEMC NFT - we will donate 10% of the proceeds to offset the CO2 pollution by planting trees at select locations. The artist Alina, is focused on her mission to create awareness through digital art. In fact, she owns a private gallery in a Monastery where people from all over the world come to learn, paint and get a launchpad to their careers. 
                 </p>
             </div>
         </section>

@@ -27,13 +27,13 @@ function Jumbotron() {
                         </a>
                     </button>
                     <div className='jt-social-links'>
-                        <a href='https://twitter.com/ScrappyNfts' target='_blank' rel='noreferrer'>
+                        <a href='https://twitter.com/gemcnft' target='_blank' rel='noreferrer'>
                             <img src={twttr} alt='Twitter'></img>
                         </a>
-                        <a href='https://discord.gg/8UqJXTX7Kd' target='_blank' rel='noreferrer'>
+                        <a href='https://discord.gg/vBjXYX85eZ' target='_blank' rel='noreferrer'>
                             <img src={dc} alt='Discord'></img>
                         </a>
-                        <a href='https://www.instagram.com/scrappysquirrels/' target='_blank' rel='noreferrer'>
+                        <a href='https://www.instagram.com/grand_escape_members_club/' target='_blank' rel='noreferrer'>
                             <img src={ig} alt='Instagram'></img>
                         </a>
                     </div>
