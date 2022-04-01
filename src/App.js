@@ -5,7 +5,7 @@ import Community from './components/Community';
 import Header from './components/Header';
 import Jumbotron from './components/Jumbotron';
 import Membership from './components/Membership';
-import Resources from './components/Resources';
+
 import Team from './components/Team';
 import Footer from './components/Footer';
 
