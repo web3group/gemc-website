@@ -1,5 +1,5 @@
 import './Community.css';
-import community from '../images/community.png';
+import community from '../images/87.webp';
 
 function Community() {
     return (
@@ -10,16 +10,11 @@ function Community() {
                 </div>
                 <div className='comm-content'>
                     <h2>Join the Community!</h2>
-                    <p>As part of the Grand Members Escape Club, you will get access to a set of libraries, tutorials, and articles created (and curated) by the team that will improve your understanding of the space (regardless of if you are a buyer, a creator, or a developer).</p>
+                    <p>As part of the Grand Members Escape Club, you will firstly join a unique club that with your unique artwork. This is just the start and we are going to expand the community and as original holder of a GEMZ you will be white listed for new series in the future.</p>
                     <p>
-                        Members are also encouraged to share their discoveries with the community. We aspire to become a one-stop-shop for anyone looking to get into NFTs.
+                        Members are encouraged to join the Discord group to join forces and learn from each other.
                     </p>
-                    <p>
-                        Finally, creators and builders and encouraged to collaborate, and work on exciting new projects. We can't wait to see what amazing things you build!
-                    </p>
-                    <p>
-                        <b>You do not need to buy a squirrel to be a part of the community. Everyone is welcome!</b>
-                    </p>
+                    
                 </div>
             </div>
         </section>

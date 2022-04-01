@@ -14,7 +14,7 @@ const RESOURCES = [
         img_src: github,
         heading: 'generative-art-nft',
         text: 'A Python library for creating generative NFT art from component traits.',
-        link: 'https://github.com/rounakbanik/generative-art-nft',
+        link: 'https://github.com/gemc',
     },
     {
         img_src: ajvc,

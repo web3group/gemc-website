@@ -1,7 +1,7 @@
 import './About.css';
-import sq1 from '../images/gallery-1.jpeg';
-import sq2 from '../images/gallery-2.jpeg';
-import sq3 from '../images/gallery-3.jpeg';
+import sq1 from '../images/91.webp';
+import sq2 from '../images/96.webp';
+import sq3 from '../images/100.webp';
 
 function About() {
     return (
@@ -20,7 +20,9 @@ The Rhino has no other choice than to Hijack Elon Musks' jet to escape the plane
  
   </p>
                 <p>
-                    By minting or trading your GEMC NFT - we will donate 10% of the proceeds to offset the CO2 pollution by planting trees at select locations. The artist Alina, is focused on her mission to create awareness through digital art. In fact, she owns a private gallery in a Monastery where people from all over the world come to learn, paint and get a launchpad to their careers. 
+                    By minting or trading your GEMC NFT - we will donate 10% of the proceeds to offset the CO2 pollution by planting trees at select locations. Alina uses art to create awareness on the legacy humans create through their activity for future generations and the contemporary individual approach on the concept of “afterlife”. 
+She is the founder of an international cultural educational Non for Profit project where artists from all around the world come together to join a collective search for fresh solutions and ideas for extending the life on Earth of all animal and plant species that inhabit it, while informing the public about the ecological breakdown and its immediate and future consequences.
+Her works have been exhibited in museums and private collections in countries such as Belgium, Greece, Lebanon, UK, Thailand, China, India, Portugal, Brazil. 
                 </p>
             </div>
         </section>

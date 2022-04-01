@@ -1,29 +1,24 @@
 const medium = (
     <div>
         <p>
-            We launch the Grand Escape Members Club Medium Publication. This publication will carry articles on everything blockchain, NFTs, and web3. Articles posted will be both technical and non-technical, and of interest to developers, creators, artists, collectors, and end-users.
+            We launch the Grand Escape Members Club nft on Ethereum with Opensea the Rhino Collection the the most endangered specie on the planet.
         </p>
-        <p>
-            <a href='https://medium.com/scrappy-squirrels' target='_blank' rel='noreferrer'>Visit the Medium Publication.</a>
-        </p>
+        
     </div>
 );
 
 const youtube = (
     <div>
         <p>
-            We launch the Grand Escape Members Club YouTube Channel. We will run educational videos through this channel so as to provide an alternate medium of learning (apart from our publication).
-        </p>
-        <p>
-            We are also exploring the possibility of creating animated shorts involving scrappy squirrels. However, we cannot make a firm commitment to this at the moment. Stay tuned for more details though!
-        </p>
+            We launch the Grand Escape Members Club decond charecter where holders of the Rhino collection will be white listed for early access.
+      </p>
     </div>
 )
 
 const artgala = (
     <div>
         <p>
-            All Grand Escape Members Club NFT holders will be invited to take part in a contest where they will showcase their best artwork. The core team will award the three works we like best with prizes worth <b>3 ETH (approx. $10,500).</b>
+            Grand Escape Members club will launch members perks, stay tuned!
         </p>
     </div>
 )
@@ -31,7 +26,7 @@ const artgala = (
 const guilds = (
     <div>
         <p>
-            Each Grand Escape Members Club will be assigned to a guild based on their held item. Guild members will get an opportunity to script their lore, conduct meetups, and participate in friendly competition with other guilds.
+            Planting trees to save the planet for the dear animals that left on Elons Musk .
         </p>
     </div>
 )
@@ -39,29 +34,25 @@ const guilds = (
 const universe = (
     <div>
         <p>
-            Holders will be invited to collaborate and propose projects that extend the Grand Escape Members Club universe. This could be anything really: 3D squirrels, baby squirrels, or an entirely new species that pose a threat to our pals.
+            To be announced.
         </p>
-        <p>
-            The project that we like best will be awarded <b>3 ETH</b>, and an opportunity to bring their project under the Grand Escape Members Club umbrella. We will also aid the team with marketing, tech, and launch.
-        </p>
+    
     </div>
 )
 
 const hackathon = (
     <div>
         <p>
-            Once 90% of all squirrels have sold out, we will conduct the Grand Escape Members Club Hackathon. All holders will be invited to collaborate and work on NFT projects of their choosing.
+           To be announced.
         </p>
-        <p>
-            The project we like best will be awarded <b>3 ETH</b> and the next two runners-up will be awarded <b>1 ETH</b> each. We will aid all 3 teams with marketing, tech, and launch.
-        </p>
+     
     </div>
 )
 
 const talks = (
     <div>
         <p>
-            After 95% of the squirrels have sold out, we will conduct a virtual TED-like conference where we will invite esteemed speakers to talk on topics such as blockchain, NFTs, and crypto. The talks will be attended by holders only.
+            To be announced.
         </p>
     </div>
 )
@@ -69,7 +60,7 @@ const talks = (
 const lotto = (
     <div>
         <p>
-            The final event of Roadmap v1.0 will be a lottery. 10 Squirrels will get a chance to win <b>1 ETH</b> each.
+           To be announced.
         </p>
     </div>
 )
@@ -77,43 +68,43 @@ const lotto = (
 const BENEFITS = [
     {
         percentage: '0',
-        heading: 'Launch of Medium Publication',
+        heading: 'Minting for Grand Escape Members Club',
         text: medium,
     },
     {
         percentage: '25',
-        heading: 'Launch of YouTube Channel',
+        heading: 'Minting of the next character in GEMC',
         text: youtube,
     },
     {
         percentage: '50',
-        heading: 'Scrappy Art Gala',
+        heading: 'Members collection perks',
         text: artgala,
     },
     {
         percentage: '60',
-        heading: 'Introduction to Guilds',
+        heading: 'Planting Trees',
         text: guilds,
     },
     {
         percentage: '75',
-        heading: 'Extend the Scrappy Universe',
+        heading: 'TBA',
         text: universe,
 
     },
     {
         percentage: '90',
-        heading: 'Scrappy Hackathon',
+        heading: 'TBA',
         text: hackathon,
     },
     {
         percentage: '95',
-        heading: 'Scrappy Talks',
+        heading: 'TBA',
         text: talks,
     },
     {
         percentage: '100',
-        heading: 'Scrappy Lotto',
+        heading: 'TBA',
         text: lotto,
     },
 

@@ -29,7 +29,6 @@ function App() {
         <About />
         <Community />
         <Membership ref={membershipRef} />
-        <Resources ref={resourcesRef} />
         <Team ref={teamRef} />
       </main>
       <Footer />

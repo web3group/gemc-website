@@ -4,17 +4,17 @@ import yoda from '../images/team/yoda.png';
 
 const TEAM = [
     {
-        name: 'Rony',
+        name: 'Alina (The Artist)',
         twitter: 'https://twitter.com/Rounak_Banik',
         avatar: rony,
     },
     {
-        name: 'Sketchsome',
+        name: 'Lori the Concept Creator',
         twitter: 'https://twitter.com/MuskanRaina97',
         avatar: sketchsome,
     },
     {
-        name: 'Yoda',
+        name: 'Mr Yoda',
         twitter: 'https://twitter.com/scrappyyoda',
         avatar: yoda,
 
